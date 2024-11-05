@@ -1,0 +1,32 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the assignment.
+
+    Good luck, and have fun!
+*/
+
+.self-portrait {
+    width: 100px;
+    display: inline-block;
+    margin: 35px;
+    border: 15px solid white;
+    padding: 3px;
+}
+
+.rose-lady {
+    width: 120px;
+    margin: 25px;
+    border: 18px solid #9d4820;
+    padding: 5px;
+}
+
+.saxophone-image {
+    width: 120px;
+    margin: 15px;
+    border: 5px solid #af7d0a;
+}
+.caption {
+    text-align: center;
+}
