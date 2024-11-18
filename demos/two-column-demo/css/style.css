@@ -1,0 +1,13 @@
+#two-columns {
+    display: flex;
+}
+
+#sidebar-content {
+    background-color: lightgreen;
+    width: 250px;
+}
+
+#main-content {
+    background-color: #37d37b;
+    flex: 1;
+}
