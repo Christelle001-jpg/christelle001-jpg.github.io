@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#hero-heading {
+    background-image: 
+    url("projects/portfolio/images/purple-abstract.jpg");
+}
+
+#hero-heading h2 {
+    font-size: 60px;
+    margin-bottom: 36px;
+}
+
+#hero-heading a {
+    font-size: 28px;
+    display: inline-block;
+    background-color:
+    color: white;
+    text-decoration: none;
+
+
+}
