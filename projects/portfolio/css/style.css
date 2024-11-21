@@ -17,12 +17,8 @@ body {
     margin-bottom: 36px;
 }
 
-#hero-heading a {
-    font-size: 28px;
-    display: inline-block;
-    background-color:
-    color: white;
-    text-decoration: none;
-
-
+#hero-heading {
+    max-width: 800px;
+    margin: 48px auto;
+    text-align: center;
 }
