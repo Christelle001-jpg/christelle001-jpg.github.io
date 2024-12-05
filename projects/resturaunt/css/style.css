@@ -31,3 +31,16 @@ body {
     display: flex;
     justify-content: center;
 }
+
+#card-1 {
+    background-color: orange;
+    padding: 24px;
+    font-size: 20px;
+}
+
+#title {
+    background-color: #E99A0D;
+    align-items: center;
+    padding: 24px;
+    border: white solid 12px;
+}
