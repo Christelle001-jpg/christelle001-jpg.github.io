@@ -60,7 +60,7 @@ body {
 }
 
 .card-2 {
-    background-color: lightblue;
+    background-color: #add8e6;
     padding: 24px;
     margin: 24px;
     border-radius: 24px;
@@ -75,4 +75,48 @@ body {
 
 .footer-card img {
     margin: 18px;
+}
+
+.appetizer-media img {
+    border: solid white 12px;
+}
+
+.appetizer-media {
+    text-align: center;
+}
+
+#entree-media {
+    text-align: center;
+}
+
+#entree-media img {
+    border: solid #5da75d 12px;
+}
+
+#drink-gallery {
+    text-align: center;
+}
+
+#drink-gallery img {
+    border: solid #199aba 12px;
+}
+
+#dessert-media {
+    text-align: center;
+}
+
+#dessert-media img {
+    border: solid #e55151 12px;
+}
+
+.footer-card a {
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 15px;
+    justify-content: center;
+}
+
+.footer-card a:hover {
+    color: red;
 }
